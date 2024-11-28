@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://n0l5kxvuqwtr"]
+
+[ext_resource type="Texture2D" uid="uid://diw00iybgbfr7" path="res://Assets/wood_set/1.png" id="1_jnr31"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(2.00001, -4)
+scale = Vector2(1.42578, 1)
+texture = ExtResource("1_jnr31")
